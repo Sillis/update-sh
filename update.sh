@@ -1,6 +1,9 @@
 #!/bin/sh
 
 echo "hae aina deitti ensin mukaan. ;)"
+echo "sen jälkeen voi upgradettaa!"
+
+# Added 12.7.2017: Second line of the mnemonic added.
 
 # Copyright 2017, Jukka Länsineva
 
